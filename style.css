@@ -1,0 +1,62 @@
+body{
+   
+    background-image: url(family\ 1.jpg)  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* display: grid;
+    align-content: center;
+    justify-content: center; */
+    position: relative;
+    
+}
+.head{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size:300%;
+    white-space: pre ;
+    color: white;
+    position: absolute;
+    left: 15%;
+    top: 20%;
+       
+}
+.prgh{
+    color: rgb(4, 4, 103);
+    font-family: sans-serif;
+    font-size: larger;
+    white-space: pre;
+    position: absolute;
+    left: 15%;
+    top:50%;
+       
+
+}
+.bt{
+    display:inline-block;
+    position: absolute;
+    left: 15%;
+    bottom: 30%;
+    text-align: center;   
+   
+}
+
+.bt1{
+    background-color: darkcyan;
+    color:white;
+    border-radius: 50px;
+    width:150px;
+    height:40px;
+    padding: 10px;
+    border-color: white;
+}
+
+.bt2{
+    color: white;
+    border-radius: 50px;
+    width:150px;
+    height:40px;
+    padding: 10px;
+    background-color: transparent;
+    border-color: white;
+    
+}
